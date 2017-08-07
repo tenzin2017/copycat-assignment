@@ -1,0 +1,91 @@
+html {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 1.2em;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+}
+
+main {
+  max-width: 900px;
+  margin: auto;
+}
+section {
+  display: block;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+header {
+  overflow: hidden;
+  height: 60px;
+  text-align: center;
+  background: #06D6A0;
+}
+
+h2 {
+  display: block;
+  margin: 0;
+}
+
+p {
+  display: block;
+}
+
+.brand {
+  color: white;
+  float: left;
+  margin: 0;
+  padding-top: 9px;
+  padding-left: 8px;
+}
+
+nav {
+  float: right;
+}
+
+.navigation li {
+  display: inline;
+  margin: 10px;
+}
+
+.levelone {
+  background: #26547C;
+  overflow: hidden;
+}
+.group-cat {
+  float: left;
+  width: 60%;
+}
+
+.meowcome {
+  float: left;
+  width: 40%;
+  font-size: 24px;
+}
+
+.meowcome >h2 {
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+
+.the-cats {
+  background: #FFD166;
+  padding: 30px 20px;
+}
+
+.products {
+  background: #F2F2F2;
+  padding: 30px 20px;
+}
+
+.gallery-cats {
+  
+}
