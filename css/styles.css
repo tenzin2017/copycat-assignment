@@ -86,6 +86,35 @@ nav {
   padding: 30px 20px;
 }
 
-.gallery-cats {
-  
+.gallery {
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+.gallery img {
+  width: 32.3333%;
+  float: left;
+  border: 2px solid black;
+  margin:3px;
+}
+.conclusion {
+  background: #26547C;
+  color: white;
+  padding: 30px 20px;
+
+}
+
+.action {
+  overflow: hidden;
+  text-align: center;
+  color: #EF476F;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.action li {
+  display: inline;
+  list-style-type: none;
+  padding: 85px;
 }
